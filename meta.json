@@ -1,0 +1,23 @@
+{
+  "repo": "logmein-suite",
+  "product": "LogMeIn Suite",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "remote-access",
+  "topics": [
+    "logmein",
+    "logmein-windows",
+    "remote-access-desktop",
+    "how-to-install-logmein",
+    "logmein-desktop-package",
+    "logmein-workspace",
+    "logmein-pro-tools",
+    "logmein-suite",
+    "zentool-logmein",
+    "logmein-tool-9"
+  ],
+  "site": "zentool.art"
+}
